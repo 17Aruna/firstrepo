@@ -48,6 +48,7 @@ select *from student1 where s_stipend>15000 or s_dept='cse'
 
 select *from student1 where  not s_gender='male'
 
+
 select *from student1 where  not s_gender='female'
 
 ---LIKE OPERATOR----
